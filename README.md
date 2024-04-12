@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @brucewayneindc
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on projects
+- 👀 I’m interested in solving crimes
+- 💞️ I’m looking to collaborate with marvel universe
 - 📫 How to reach me @brucewayneindc
 - 😄 Pronouns: dark knight
 - ⚡ Fun fact: i am batman
